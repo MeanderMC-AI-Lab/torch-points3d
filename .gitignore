@@ -1,3 +1,13 @@
+# Custom
+.mp4
+.m4a
+.mp3
+.pth
+.pt
+.npy
+.Trash*
+/wandb/
+
 /data/
 *.pyc
 __pycache__
